@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Aleksandr. I'm 19 years old and I live in Germany
 - I'm interested in computer games and game engines
 - I'm currently working on my own game engine called BeeEngine
 - My main programming languages are C++ and C#
