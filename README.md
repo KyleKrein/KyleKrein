@@ -1,4 +1,10 @@
 ### Hi there 👋
+- I'm interested in computer games and game engines
+- I'm currently working on my own game engine called BeeEngine
+- My main programming languages are C++ and C#
+- I'm currently learning C++, Vulkan and WebGPU
+- You can reach me via Telegram: @Kyle_Krein
+
 
 <!--
 **KyleKrein/KyleKrein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
